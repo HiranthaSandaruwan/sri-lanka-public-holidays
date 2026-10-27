@@ -1,0 +1,227 @@
+[
+  {
+    "date": "2027-01-15",
+    "weekday": "Friday",
+    "name": "Tamil Thai Pongal Day",
+    "poya": false,
+    "mercantile": true,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-01-22",
+    "weekday": "Friday",
+    "name": "Duruthu Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-02-04",
+    "weekday": "Thursday",
+    "name": "Independence Day",
+    "poya": false,
+    "mercantile": true,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-02-20",
+    "weekday": "Saturday",
+    "name": "Navam Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-03-06",
+    "weekday": "Saturday",
+    "name": "Mahasivarathri Day",
+    "poya": false,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-03-10",
+    "weekday": "Wednesday",
+    "name": "Eid-ul-Fitr (Ramazan Festival Day)",
+    "poya": false,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-03-22",
+    "weekday": "Monday",
+    "name": "Medin Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-03-26",
+    "weekday": "Friday",
+    "name": "Good Friday",
+    "poya": false,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-04-13",
+    "weekday": "Tuesday",
+    "name": "Day prior to Sinhala & Tamil New Year Day",
+    "poya": false,
+    "mercantile": true,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-04-14",
+    "weekday": "Wednesday",
+    "name": "Sinhala & Tamil New Year Day",
+    "poya": false,
+    "mercantile": true,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-04-20",
+    "weekday": "Tuesday",
+    "name": "Bak Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-05-01",
+    "weekday": "Saturday",
+    "name": "May Day (International Workers' Day)",
+    "poya": false,
+    "mercantile": true,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-05-17",
+    "weekday": "Monday",
+    "name": "Eid-ul-Adha (Hadji Festival Day)",
+    "poya": false,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-05-19",
+    "weekday": "Wednesday",
+    "name": "Vesak Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-05-20",
+    "weekday": "Thursday",
+    "name": "Day following Vesak Full Moon Poya Day",
+    "poya": false,
+    "mercantile": true,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-06-18",
+    "weekday": "Friday",
+    "name": "Poson Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-07-18",
+    "weekday": "Sunday",
+    "name": "Esala Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-08-15",
+    "weekday": "Sunday",
+    "name": "Milad-un-Nabi (Holy Prophet's Birthday)",
+    "poya": false,
+    "mercantile": true,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-08-16",
+    "weekday": "Monday",
+    "name": "Nikini Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-09-15",
+    "weekday": "Wednesday",
+    "name": "Binara Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-10-15",
+    "weekday": "Friday",
+    "name": "Vap Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-10-28",
+    "weekday": "Thursday",
+    "name": "Deepawali Festival Day",
+    "poya": false,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-11-13",
+    "weekday": "Saturday",
+    "name": "Il Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-12-13",
+    "weekday": "Monday",
+    "name": "Unduvap Full Moon Poya Day",
+    "poya": true,
+    "mercantile": false,
+    "bank": true,
+    "public": true
+  },
+  {
+    "date": "2027-12-25",
+    "weekday": "Saturday",
+    "name": "Christmas Day",
+    "poya": false,
+    "mercantile": true,
+    "bank": true,
+    "public": true
+  }
+]

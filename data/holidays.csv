@@ -1,0 +1,52 @@
+date,weekday,name,poya,mercantile,bank,public
+2026-01-03,Saturday,Duruthu Full Moon Poya Day,true,false,true,true
+2026-01-15,Thursday,Tamil Thai Pongal Day,false,true,true,true
+2026-02-01,Sunday,Navam Full Moon Poya Day,true,false,true,true
+2026-02-04,Wednesday,Independence Day,false,true,true,true
+2026-02-15,Sunday,Mahasivarathri Day,false,false,true,true
+2026-03-02,Monday,Medin Full Moon Poya Day,true,false,true,true
+2026-03-21,Saturday,Eid-ul-Fitr (Ramazan Festival Day),false,false,true,true
+2026-04-01,Wednesday,Bak Full Moon Poya Day,true,false,true,true
+2026-04-03,Friday,Good Friday,false,false,true,true
+2026-04-13,Monday,Day prior to Sinhala & Tamil New Year Day,false,true,true,true
+2026-04-14,Tuesday,Sinhala & Tamil New Year Day,false,true,true,true
+2026-05-01,Friday,Vesak Full Moon Poya Day,true,false,true,true
+2026-05-01,Friday,May Day (International Workers' Day),false,true,true,true
+2026-05-02,Saturday,Day following Vesak Full Moon Poya Day,false,true,true,true
+2026-05-28,Thursday,Eid-ul-Adha (Hadji Festival Day),false,false,true,true
+2026-05-30,Saturday,Adhi Poson Full Moon Poya Day,true,false,true,true
+2026-06-29,Monday,Poson Full Moon Poya Day,true,false,true,true
+2026-07-29,Wednesday,Esala Full Moon Poya Day,true,false,true,true
+2026-08-26,Wednesday,Milad-un-Nabi (Holy Prophet's Birthday),false,true,true,true
+2026-08-27,Thursday,Nikini Full Moon Poya Day,true,false,true,true
+2026-09-26,Saturday,Binara Full Moon Poya Day,true,false,true,true
+2026-10-25,Sunday,Vap Full Moon Poya Day,true,false,true,true
+2026-11-08,Sunday,Deepawali Festival Day,false,false,true,true
+2026-11-24,Tuesday,Il Full Moon Poya Day,true,false,true,true
+2026-12-23,Wednesday,Unduvap Full Moon Poya Day,true,false,true,true
+2026-12-25,Friday,Christmas Day,false,true,true,true
+2027-01-15,Friday,Tamil Thai Pongal Day,false,true,true,true
+2027-01-22,Friday,Duruthu Full Moon Poya Day,true,false,true,true
+2027-02-04,Thursday,Independence Day,false,true,true,true
+2027-02-20,Saturday,Navam Full Moon Poya Day,true,false,true,true
+2027-03-06,Saturday,Mahasivarathri Day,false,false,true,true
+2027-03-10,Wednesday,Eid-ul-Fitr (Ramazan Festival Day),false,false,true,true
+2027-03-22,Monday,Medin Full Moon Poya Day,true,false,true,true
+2027-03-26,Friday,Good Friday,false,false,true,true
+2027-04-13,Tuesday,Day prior to Sinhala & Tamil New Year Day,false,true,true,true
+2027-04-14,Wednesday,Sinhala & Tamil New Year Day,false,true,true,true
+2027-04-20,Tuesday,Bak Full Moon Poya Day,true,false,true,true
+2027-05-01,Saturday,May Day (International Workers' Day),false,true,true,true
+2027-05-17,Monday,Eid-ul-Adha (Hadji Festival Day),false,false,true,true
+2027-05-19,Wednesday,Vesak Full Moon Poya Day,true,false,true,true
+2027-05-20,Thursday,Day following Vesak Full Moon Poya Day,false,true,true,true
+2027-06-18,Friday,Poson Full Moon Poya Day,true,false,true,true
+2027-07-18,Sunday,Esala Full Moon Poya Day,true,false,true,true
+2027-08-15,Sunday,Milad-un-Nabi (Holy Prophet's Birthday),false,true,true,true
+2027-08-16,Monday,Nikini Full Moon Poya Day,true,false,true,true
+2027-09-15,Wednesday,Binara Full Moon Poya Day,true,false,true,true
+2027-10-15,Friday,Vap Full Moon Poya Day,true,false,true,true
+2027-10-28,Thursday,Deepawali Festival Day,false,false,true,true
+2027-11-13,Saturday,Il Full Moon Poya Day,true,false,true,true
+2027-12-13,Monday,Unduvap Full Moon Poya Day,true,false,true,true
+2027-12-25,Saturday,Christmas Day,false,true,true,true

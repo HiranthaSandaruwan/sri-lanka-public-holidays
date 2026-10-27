@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hirantha.me//Sri Lanka holidays//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sri Lanka Poya days
+BEGIN:VEVENT
+UID:20260103-duruthu-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Duruthu Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260201-navam-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Navam Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260302-medin-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Medin Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260401-bak-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Bak Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260501-vesak-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Vesak Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260530-adhi-poson-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Adhi Poson Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260629-poson-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Poson Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260729-esala-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:Esala Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-nikini-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Nikini Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260926-binara-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Binara Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261025-vap-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Vap Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261124-il-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Il Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261223-unduvap-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Unduvap Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270122-duruthu-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Duruthu Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270220-navam-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Navam Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270322-medin-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Medin Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270420-bak-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Bak Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270519-vesak-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Vesak Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270618-poson-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Poson Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270718-esala-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Esala Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270816-nikini-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Nikini Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270915-binara-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Binara Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271015-vap-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Vap Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271113-il-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Il Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271213-unduvap-full-moon-poya-day@hirantha.me
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+SUMMARY:Unduvap Full Moon Poya Day
+URL:https://hirantha.me/tools/sri-lanka-holidays
+DESCRIPTION:Public and bank holiday in Sri Lanka. Full list: https://hirantha.me/tools/sri-lanka-holidays
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
