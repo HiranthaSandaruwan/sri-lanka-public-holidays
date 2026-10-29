@@ -16,7 +16,7 @@ Every public, bank and mercantile holiday in Sri Lanka for 2026 and 2027, with t
 | `calendars/sri-lanka-poya-days.ics` | Poya days only |
 | `calendars/sri-lanka-mercantile-holidays.ics` | Mercantile holidays only |
 
-Each holiday has: `date` (YYYY-MM-DD), `weekday`, `name` (as gazetted), `poya` (a full moon Poya day itself, not "the day following"), `mercantile` (also a mercantile holiday, which applies to private-sector employees), and `bank` and `public` (true for every row). Saturdays and Sundays are bank holidays too but are not listed.
+Each holiday has: `date` (YYYY-MM-DD), `weekday`, `name` (as gazetted), `poya` (a full moon Poya day itself, not "the day following"), `mercantile` (also a mercantile holiday, which applies to private-sector employees), and `bank` and `public` (true for every row). Saturdays and Sundays are bank holidays too; a plain weekend is not listed, but a holiday that falls on one is.
 
 Want calendar feeds that update themselves, or a widget for your website? See [hirantha.me/widgets](https://hirantha.me/widgets). A JSON API with a free key is at [hirantha.me/developers](https://hirantha.me/developers).
 
